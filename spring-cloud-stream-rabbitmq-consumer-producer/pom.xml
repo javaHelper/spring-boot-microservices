@@ -1,0 +1,12 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.example</groupId>
+  <artifactId>spring-cloud-stream-rabbitmq-consumer-producer</artifactId>
+  <version>1</version>
+  <packaging>pom</packaging>
+
+  <modules>
+    <module>spring-cloud-stream-rabbitmq-consumer</module>
+    <module>spring-cloud-stream-rabbitmq-publisher</module>
+  </modules>
+</project> 
